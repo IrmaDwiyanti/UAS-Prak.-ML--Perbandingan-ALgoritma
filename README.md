@@ -1,5 +1,15 @@
 # 🐾 Klasifikasi Gambar Hewan dengan CNN, ResNet50, dan EfficientNetB0
 
+## 👥 Anggota Kelompok
+
+👨‍💻 Galang Dwiwana Thabrani 
+
+👩‍💻 Irma Dwiyanti 
+
+👩‍💻 Irma Rohmatillah 
+
+---
+
 ## 📚 Deskripsi Proyek
 
 Proyek ini merupakan studi komparatif arsitektur deep learning **Custom CNN**, **ResNet50**, dan **EfficientNetB0** untuk klasifikasi gambar hewan ke dalam tiga kelas: **kucing**, **anjing**, dan **ular**.  
