@@ -43,7 +43,7 @@ Distribusi Data PerKelas :
 ## 🧪 Metode: CRISP-DM
 
 ### 1️⃣ Business Understanding  
-Tujuan utama adalah menentukan model CNN mana yang paling efektif untuk mengklasifikasikan gambar hewan.
+Tujuan utama adalah menentukan arsitektur CNN mana yang paling efektif untuk mengklasifikasikan gambar hewan.
 
 ### 2️⃣ Data Understanding  
 Dataset divisualisasikan dan diperiksa persebaran labelnya. Semua gambar memiliki ukuran awal 256x256 piksel dan terdiri dari 3 saluran warna (RGB).
