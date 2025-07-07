@@ -136,4 +136,4 @@ Karakteristik:
 
 - Training hanya 6 epoch
 - Loss hampir tidak berubah, menunjukkan model stuck
-- Kemungkinan masalah: learning rate terlalu tinggi/rendah, arsitektur tidak cocok untuk dataset, atau masalah preprocessing
+- Kemungkinan masalah: learning rate terlalu tinggi/rendah, arsitektur tidak cocok untuk dataset, atau masalah preprocessing.
